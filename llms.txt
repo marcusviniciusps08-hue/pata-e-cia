@@ -1,0 +1,34 @@
+# Pata & Cia
+
+> Pet e itens do dia a dia. Preços lidos nos anúncios do Mercado Livre, com a data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Categorias
+- [Aves](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/aves/)
+- [Coleiras, camas e brinquedos](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/coleiras-camas-e-brinquedos/)
+- [Gaiolas e roedores](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/gaiolas-e-roedores/)
+- [Saúde e higiene pet](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/saude-e-higiene-pet/)
+- [Aquarismo](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/aquarismo/)
+- [Rações para cães e gatos](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/racoes-para-caes-e-gatos/)
+- [Areia e higiene do pet](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/areia-e-higiene-do-pet/)
+- [Limpeza e mercado](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/limpeza-e-mercado/)
+
+## Guias de compra
+- [Como escolher detergente: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pata-e-cia/guias/como-escolher-detergente/)
+- [Detergentes de louça até R$ 50: opções e preços](https://marcusviniciusps08-hue.github.io/pata-e-cia/guias/detergentes-de-louca-ate-50/)
+- [Como escolher papel higiênico: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pata-e-cia/guias/como-escolher-papel-higienico/)
+- [Papel higiênico até R$ 40: opções e preços](https://marcusviniciusps08-hue.github.io/pata-e-cia/guias/papel-higienico-ate-40/)
+- [Como escolher ração: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/pata-e-cia/guias/como-escolher-racao/)
+- [Rações para cães e gatos até R$ 170: opções e preços](https://marcusviniciusps08-hue.github.io/pata-e-cia/guias/racoes-para-caes-e-gatos-ate-170/)
+
+## Comparativos
+- [Detergente Lava Louças em Pó para Máquina Ypê vs Detergente Para Lava Louças Em Pó Finish Power: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/detergente-lava-loucas-em-po-para-maquina-ype-vs-detergente-para-lava-loucas-em-po-finish-/)
+- [Papel Higiênico Familiar Folha Dupla Kit 24 Rolos vs Papel Higiênico Folha Dupla 30m L24p22 Personal: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/papel-higienico-familiar-folha-dupla-kit-24-rolos-vs-papel-higienico-folha-dupla-30m-l24p2/)
+- [Ração Úmida Pedigree para Cão Adulto de Raças vs Whiskas Sachê Carne ao Molho para Gatos Adultos: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/racao-umida-pedigree-para-cao-adulto-de-racas-vs-whiskas-sache-carne-ao-molho-para-gatos-a/)
+- [Ração P/caes Adultos Fresh Meat Sensitive Min E vs Ração Seca Golden Premium Especial Gato Adulto Sabor: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/racao-p-caes-adultos-fresh-meat-sensitive-min-e-vs-racao-seca-golden-premium-especial-gato/)
+- [Racao Golden Gatos Special Castrados Sabor Frango E vs Gran Plus Menu Castrados Para Gato Adulto Sabor: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/racao-golden-gatos-special-castrados-sabor-frango-e-vs-gran-plus-menu-castrados-para-gato-/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/pata-e-cia/sobre/)
+- [Perguntas frequentes](https://marcusviniciusps08-hue.github.io/pata-e-cia/faq/)
