@@ -10,8 +10,8 @@ Contém links de afiliado Mercado Livre.
 - [Gaiolas e roedores](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/gaiolas-e-roedores/)
 - [Aquarismo](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/aquarismo/)
 - [Rações para cães e gatos](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/racoes-para-caes-e-gatos/)
-- [Areia e higiene do pet](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/areia-e-higiene-do-pet/)
 - [Saúde e higiene pet](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/saude-e-higiene-pet/)
+- [Areia e higiene do pet](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/areia-e-higiene-do-pet/)
 - [Limpeza e mercado](https://marcusviniciusps08-hue.github.io/pata-e-cia/categoria/limpeza-e-mercado/)
 
 ## Guias de compra
@@ -24,7 +24,7 @@ Contém links de afiliado Mercado Livre.
 - [Papel Higiênico Folha Dupla 30m L24p22 Personal vs Papel Higiênico Familiar Folha Dupla Kit 24 Rolos: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/papel-higienico-folha-dupla-30m-l24p22-personal-vs-papel-higienico-familiar-folha-dupla-ki/)
 - [Ração Úmida Pedigree para Cão Adulto de Raças vs Ração P/caes Adultos Fresh Meat Sensitive Min E: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/racao-umida-pedigree-para-cao-adulto-de-racas-vs-racao-p-caes-adultos-fresh-meat-sensitive/)
 - [Ração Seca Golden Premium Especial Gato Adulto Sabor vs Ração Golden Gato Castrado Adulto Sabor Frango 10,1kg: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/racao-seca-golden-premium-especial-gato-adulto-sabor-vs-racao-golden-gato-castrado-adulto-/)
-- [Ração Golden Fórmula Mini Bits Cão Ad Peq vs Ração Quatree Supreme Gatos Castrados Frango E Batata: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/racao-golden-formula-mini-bits-cao-ad-peq-vs-racao-quatree-supreme-gatos-castrados-frango-/)
+- [Ração Golden Fórmula Mini Bits Cão Ad Peq vs Fórmula Natural Pro Cão Adulto Médio e Grande: comparativo](https://marcusviniciusps08-hue.github.io/pata-e-cia/comparativos/racao-golden-formula-mini-bits-cao-ad-peq-vs-formula-natural-pro-cao-adulto-medio-e-grande/)
 
 ## Sobre
 - [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/pata-e-cia/sobre/)
